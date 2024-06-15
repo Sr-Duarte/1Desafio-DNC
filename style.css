@@ -34,8 +34,10 @@
 }
 
 .informacional{
+    
     margin-left: 25px;
 }
+
 
 #Arquitetos{
     margin-left: 10px;
@@ -50,11 +52,10 @@
     margin-left: 10px;
     margin-top: 250px;
     font-size: 45px;
+ }
 
-    }
-
-.textoft{
-    font-size: 20px;
+#textoftaqr{
+    font-size: 15px;
          
 }
 
