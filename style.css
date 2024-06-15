@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-size: 25px;
     font-family: "inter";
 }
 
@@ -25,10 +26,15 @@
 }
 
 .menuinformacional{
+    margin-left: 25px;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
     
+}
+
+.informacional{
+    margin-left: 25px;
 }
 
 #Arquitetos{
@@ -47,11 +53,9 @@
 
     }
 
-#texto-ft{
+.textoft{
     font-size: 20px;
-    
-
-     
+         
 }
 
 .ftarq{
@@ -65,7 +69,7 @@
 }
 
 #titulo-formulario{
-    font-size: 25px;
+    font-size: 10px;
     margin: 25px;
     color: #303030;
 }
